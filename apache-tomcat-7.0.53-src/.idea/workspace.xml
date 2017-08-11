@@ -26,8 +26,8 @@
       <file leaf-file-name="ContextConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/startup/ContextConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.4333334">
-              <caret line="1241" column="0" selection-start-line="1241" selection-start-column="0" selection-end-line="1241" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.233333">
+              <caret line="1237" column="21" selection-start-line="1237" selection-start-column="21" selection-end-line="1237" selection-end-column="21" />
               <folding>
                 <element signature="e#42835#42843#0" expanded="true" />
               </folding>
@@ -39,7 +39,27 @@
         <entry file="file://$PROJECT_DIR$/webapps/hello/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.3">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+              <caret line="6" column="68" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContextLoaderListener.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.18.RELEASE/spring-web-3.2.18.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.142857">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.363636">
+              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,18 +68,8 @@
       <file leaf-file-name="StandardContext.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/core/StandardContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.233334">
-              <caret line="4887" column="106" selection-start-line="4887" selection-start-column="106" selection-end-line="4887" selection-end-column="106" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/startup/Constants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="57" />
+            <state vertical-scroll-proportion="-5.0333333">
+              <caret line="4883" column="25" selection-start-line="4883" selection-start-column="25" selection-end-line="4883" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -70,16 +80,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.5">
               <caret line="442" column="13" selection-start-line="442" selection-start-column="13" selection-end-line="442" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JDTCompiler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/org/apache/jasper/compiler/JDTCompiler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="380" column="17" selection-start-line="380" selection-start-column="17" selection-end-line="381" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -99,6 +99,7 @@
         <option value="$PROJECT_DIR$/java/org/apache/catalina/startup/Constants.java" />
         <option value="$PROJECT_DIR$/java/org/apache/catalina/startup/ContextConfig.java" />
         <option value="$PROJECT_DIR$/java/org/apache/catalina/core/StandardContext.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/webapps/hello/WEB-INF/web.xml" />
       </list>
     </option>
@@ -115,6 +116,16 @@
         <option name="userSettingsFile" value="C:\install\apache-maven-3.3.9\userxml\settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -761,16 +772,16 @@
       <updated>1502433154918</updated>
       <workItem from="1502433156211" duration="517000" />
       <workItem from="1502433678465" duration="1065000" />
-      <workItem from="1502434949902" duration="1735000" />
+      <workItem from="1502434949902" duration="2140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3317000" />
+    <option name="totallyTimeSpent" value="3722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -778,7 +789,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4127844" sideWeight="0.31663114" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.496208" sideWeight="0.8075693" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -790,7 +801,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4127844" sideWeight="0.68336886" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4127844" sideWeight="0.68336886" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -898,7 +909,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/org/apache/jasper/compiler/JDTCompiler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.046783626">
           <caret line="380" column="17" selection-start-line="380" selection-start-column="17" selection-end-line="381" selection-end-column="60" />
           <folding />
         </state>
@@ -912,20 +923,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/core/StandardContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0333333">
+          <caret line="4883" column="25" selection-start-line="4883" selection-start-column="25" selection-end-line="4883" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/startup/ContextConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.4333334">
-          <caret line="1241" column="0" selection-start-line="1241" selection-start-column="0" selection-end-line="1241" selection-end-column="0" />
+        <state vertical-scroll-proportion="-4.233333">
+          <caret line="1237" column="21" selection-start-line="1237" selection-start-column="21" selection-end-line="1237" selection-end-column="21" />
           <folding>
             <element signature="e#42835#42843#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/core/StandardContext.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.233334">
-          <caret line="4887" column="106" selection-start-line="4887" selection-start-column="106" selection-end-line="4887" selection-end-column="106" />
+        <state vertical-scroll-proportion="-12.363636">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.18.RELEASE/spring-web-3.2.18.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.142857">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -933,7 +960,7 @@
     <entry file="file://$PROJECT_DIR$/webapps/hello/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <caret line="6" column="68" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="68" />
           <folding />
         </state>
       </provider>
