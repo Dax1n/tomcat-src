@@ -4885,7 +4885,7 @@ public class StandardContext extends ContainerBase
                     listeners[i] + "'");
             try {
                 ApplicationListener listener = listeners[i];
-                results[i] = instanceManager.newInstance(listener.getClassName()); 
+                results[i] = instanceManager.newInstance(listener.getClassName()); //TODO  创建监听器对象，使用反射的方式
                 if (listener.isPluggabilityBlocked()) {
                     noPluggabilityListeners.add(results[i]);
                 }
