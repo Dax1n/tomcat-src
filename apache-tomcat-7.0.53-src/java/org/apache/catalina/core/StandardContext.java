@@ -4885,8 +4885,7 @@ public class StandardContext extends ContainerBase
                     listeners[i] + "'");
             try {
                 ApplicationListener listener = listeners[i];
-                results[i] = instanceManager.newInstance(
-                        listener.getClassName());
+                results[i] = instanceManager.newInstance(listener.getClassName()); 
                 if (listener.isPluggabilityBlocked()) {
                     noPluggabilityListeners.add(results[i]);
                 }

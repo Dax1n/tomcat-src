@@ -26,41 +26,50 @@
       <file leaf-file-name="ContextConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/startup/ContextConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="859" column="30" selection-start-line="859" selection-start-column="30" selection-end-line="859" selection-end-column="30" />
+            <state vertical-scroll-proportion="-7.4333334">
+              <caret line="1241" column="0" selection-start-line="1241" selection-start-column="0" selection-end-line="1241" selection-end-column="0" />
               <folding>
-                <element signature="e#0#100848#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#54408#54409#0" expanded="false" />
-                <element signature="e#54443#54444#0" expanded="false" />
-                <element signature="e#96188#96189#0" expanded="false" />
-                <element signature="e#96246#96247#0" expanded="false" />
-                <element signature="e#99309#99310#0" expanded="false" />
-                <element signature="e#99349#99350#0" expanded="false" />
-                <element signature="e#99826#99827#0" expanded="false" />
-                <element signature="e#99863#99864#0" expanded="false" />
-                <element signature="e#99907#99908#0" expanded="false" />
-                <element signature="e#99953#99954#0" expanded="false" />
-                <element signature="e#99995#99996#0" expanded="false" />
-                <element signature="e#100039#100040#0" expanded="false" />
-                <element signature="e#100483#100484#0" expanded="false" />
-                <element signature="e#100528#100529#0" expanded="false" />
-                <element signature="e#100575#100576#0" expanded="false" />
-                <element signature="e#100620#100621#0" expanded="false" />
-                <element signature="e#100683#100684#0" expanded="false" />
-                <element signature="e#100720#100721#0" expanded="false" />
-                <element signature="e#100794#100795#0" expanded="false" />
-                <element signature="e#100838#100839#0" expanded="false" />
+                <element signature="e#42835#42843#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bootstrap.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapps/hello/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.3636365">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StandardContext.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/core/StandardContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.51138717">
+              <caret line="4887" column="83" selection-start-line="4887" selection-start-column="83" selection-end-line="4887" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/startup/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bootstrap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/startup/Bootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58464223">
-              <caret line="378" column="26" selection-start-line="378" selection-start-column="26" selection-end-line="378" selection-end-column="26" />
+            <state vertical-scroll-proportion="-3.5">
+              <caret line="442" column="13" selection-start-line="442" selection-start-column="13" selection-end-line="442" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -71,23 +80,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="380" column="17" selection-start-line="380" selection-start-column="17" selection-end-line="381" selection-end-column="60" />
-              <folding>
-                <element signature="e#0#21611#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#4065#4066#0" expanded="false" />
-                <element signature="e#4128#4129#0" expanded="false" />
-                <element signature="e#6726#6727#0" expanded="false" />
-                <element signature="e#6770#6771#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompilerOptions.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/4.2.2/ecj-4.2.2-sources.jar!/org/eclipse/jdt/internal/compiler/impl/CompilerOptions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -104,6 +96,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/java/org/apache/jasper/compiler/JDTCompiler.java" />
+        <option value="$PROJECT_DIR$/java/org/apache/catalina/startup/Constants.java" />
+        <option value="$PROJECT_DIR$/java/org/apache/catalina/startup/ContextConfig.java" />
+        <option value="$PROJECT_DIR$/webapps/hello/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/java/org/apache/catalina/core/StandardContext.java" />
       </list>
     </option>
   </component>
@@ -180,6 +176,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webapps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache-tomcat-7.0.53-src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache-tomcat-7.0.53-src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache-tomcat-7.0.53-src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apache-tomcat-7.0.53-src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -725,26 +761,26 @@
       <updated>1502433154918</updated>
       <workItem from="1502433156211" duration="517000" />
       <workItem from="1502433678465" duration="1065000" />
-      <workItem from="1502434949902" duration="592000" />
+      <workItem from="1502434949902" duration="1647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2174000" />
+    <option name="totallyTimeSpent" value="3229000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50595886" sideWeight="0.5970149" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2936078" sideWeight="0.5943497" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34777898" sideWeight="0.1924307" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4127844" sideWeight="0.31663114" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34777898" sideWeight="0.8075693" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.496208" sideWeight="0.8075693" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -754,7 +790,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4127844" sideWeight="0.68336886" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -775,7 +811,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/org/apache/catalina/core/StandardContext.java</url>
+          <line>4886</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -788,28 +834,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="859" column="30" selection-start-line="859" selection-start-column="30" selection-end-line="859" selection-end-column="30" />
           <folding>
-            <element signature="e#0#100848#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#54408#54409#0" expanded="false" />
-            <element signature="e#54443#54444#0" expanded="false" />
-            <element signature="e#96188#96189#0" expanded="false" />
-            <element signature="e#96246#96247#0" expanded="false" />
-            <element signature="e#99309#99310#0" expanded="false" />
-            <element signature="e#99349#99350#0" expanded="false" />
-            <element signature="e#99826#99827#0" expanded="false" />
-            <element signature="e#99863#99864#0" expanded="false" />
-            <element signature="e#99907#99908#0" expanded="false" />
-            <element signature="e#99953#99954#0" expanded="false" />
-            <element signature="e#99995#99996#0" expanded="false" />
-            <element signature="e#100039#100040#0" expanded="false" />
-            <element signature="e#100483#100484#0" expanded="false" />
-            <element signature="e#100528#100529#0" expanded="false" />
-            <element signature="e#100575#100576#0" expanded="false" />
-            <element signature="e#100620#100621#0" expanded="false" />
-            <element signature="e#100683#100684#0" expanded="false" />
-            <element signature="e#100720#100721#0" expanded="false" />
-            <element signature="e#100794#100795#0" expanded="false" />
-            <element signature="e#100838#100839#0" expanded="false" />
+            <element signature="e#42835#42843#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -826,14 +851,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="380" column="17" selection-start-line="380" selection-start-column="17" selection-end-line="381" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#21611#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#4065#4066#0" expanded="false" />
-            <element signature="e#4128#4129#0" expanded="false" />
-            <element signature="e#6726#6727#0" expanded="false" />
-            <element signature="e#6770#6771#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -850,28 +868,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#100848#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#54408#54409#0" expanded="false" />
-            <element signature="e#54443#54444#0" expanded="false" />
-            <element signature="e#96188#96189#0" expanded="false" />
-            <element signature="e#96246#96247#0" expanded="false" />
-            <element signature="e#99309#99310#0" expanded="false" />
-            <element signature="e#99349#99350#0" expanded="false" />
-            <element signature="e#99826#99827#0" expanded="false" />
-            <element signature="e#99863#99864#0" expanded="false" />
-            <element signature="e#99907#99908#0" expanded="false" />
-            <element signature="e#99953#99954#0" expanded="false" />
-            <element signature="e#99995#99996#0" expanded="false" />
-            <element signature="e#100039#100040#0" expanded="false" />
-            <element signature="e#100483#100484#0" expanded="false" />
-            <element signature="e#100528#100529#0" expanded="false" />
-            <element signature="e#100575#100576#0" expanded="false" />
-            <element signature="e#100620#100621#0" expanded="false" />
-            <element signature="e#100683#100684#0" expanded="false" />
-            <element signature="e#100720#100721#0" expanded="false" />
-            <element signature="e#100794#100795#0" expanded="false" />
-            <element signature="e#100838#100839#0" expanded="false" />
+            <element signature="e#42835#42843#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -883,9 +880,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/4.2.2/ecj-4.2.2-sources.jar!/org/eclipse/jdt/internal/compiler/impl/CompilerOptions.java">
+    <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/startup/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/4.2.2/ecj-4.2.2-sources.jar!/org/eclipse/jdt/internal/compiler/impl/CompilerOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.033946253">
           <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding />
         </state>
@@ -895,52 +900,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="380" column="17" selection-start-line="380" selection-start-column="17" selection-end-line="381" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#21611#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#4065#4066#0" expanded="false" />
-            <element signature="e#4128#4129#0" expanded="false" />
-            <element signature="e#6726#6727#0" expanded="false" />
-            <element signature="e#6770#6771#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/startup/ContextConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="859" column="30" selection-start-line="859" selection-start-column="30" selection-end-line="859" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#100848#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#54408#54409#0" expanded="false" />
-            <element signature="e#54443#54444#0" expanded="false" />
-            <element signature="e#96188#96189#0" expanded="false" />
-            <element signature="e#96246#96247#0" expanded="false" />
-            <element signature="e#99309#99310#0" expanded="false" />
-            <element signature="e#99349#99350#0" expanded="false" />
-            <element signature="e#99826#99827#0" expanded="false" />
-            <element signature="e#99863#99864#0" expanded="false" />
-            <element signature="e#99907#99908#0" expanded="false" />
-            <element signature="e#99953#99954#0" expanded="false" />
-            <element signature="e#99995#99996#0" expanded="false" />
-            <element signature="e#100039#100040#0" expanded="false" />
-            <element signature="e#100483#100484#0" expanded="false" />
-            <element signature="e#100528#100529#0" expanded="false" />
-            <element signature="e#100575#100576#0" expanded="false" />
-            <element signature="e#100620#100621#0" expanded="false" />
-            <element signature="e#100683#100684#0" expanded="false" />
-            <element signature="e#100720#100721#0" expanded="false" />
-            <element signature="e#100794#100795#0" expanded="false" />
-            <element signature="e#100838#100839#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/startup/Bootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58464223">
-          <caret line="378" column="26" selection-start-line="378" selection-start-column="26" selection-end-line="378" selection-end-column="26" />
+        <state vertical-scroll-proportion="-3.5">
+          <caret line="442" column="13" selection-start-line="442" selection-start-column="13" selection-end-line="442" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/startup/ContextConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.4333334">
+          <caret line="1241" column="0" selection-start-line="1241" selection-start-column="0" selection-end-line="1241" selection-end-column="0" />
+          <folding>
+            <element signature="e#42835#42843#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapps/hello/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.3636365">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/org/apache/catalina/core/StandardContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51138717">
+          <caret line="4887" column="83" selection-start-line="4887" selection-start-column="83" selection-end-line="4887" selection-end-column="83" />
           <folding />
         </state>
       </provider>
